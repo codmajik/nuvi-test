@@ -6,7 +6,7 @@
 
 
 ### supported paramters
-  -redis_url: url to redis in the form redis://HOSTNAME_OR_IP:PORT
+  -redis_url: url to redis in the form redis://HOSTNAME_OR_IP:PORT  
   -url: url to directory index of zip files http[s]://URL
   
   
