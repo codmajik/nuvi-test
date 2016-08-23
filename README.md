@@ -6,8 +6,9 @@
 
 
 ### supported paramters
-  -redis_url: url to redis in the form redis://HOSTNAME_OR_IP:PORT  
-  -url: url to directory index of zip files http[s]://URL
+  -redis_url string: url to redis in the form redis://HOSTNAME_OR_IP:PORT  
+  -url string: url to directory index of zip files http[s]://URL  
+  -limit int: process a specified number of files from the fetched list
   
   
 ### running test
